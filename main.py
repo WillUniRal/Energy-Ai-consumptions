@@ -2,7 +2,7 @@ import numpy
 import matplotlib
 
 def main():
-    print("Hello from energy-ai-consumptions!")
+    pass
 
 
 if __name__ == "__main__":
