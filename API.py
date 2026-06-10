@@ -4,7 +4,7 @@ from getpass import getpass
 import os
 import json
 
-from DEC import Search
+from EnergyCertificates import Search
 
 CONF_FILE = "config.yml"
 
@@ -39,23 +39,31 @@ class GovApi :
             "Authorization": f"Bearer {self.secret}",
             "Accept": "application/json"
         }, params=kwargs)
-        print(data.url)
-
         
         if data.status_code != 200 :
             print(data.status_code, data.json()["data"]["error"])
         else :
-            print(json.dumps(data.json(), indent=2))
+            print(200)
+            return data.json()
+            # print(json.dumps(data.json(), indent=2))
+
+        print(data.url)
 
 if __name__ == "__main__":
     api = GovApi()
     # Working data centre address
     # address = "13 Liverpool Road"
 
-    newParams = Search()
-    newParams.address = "13 Liverpool Road"
-    newParams.set_date(2017,2026)
+    dataCentre = Search()
+    dataCentre.address = "13 Liverpool Road"
+    dataCentre.set_date(2018,2018)
 
-    api.get_data(Search.path,**newParams.params)
+    api.get_data(Search.path,**dataCentre.params)
+
+    beaconsfield = Search()
+    beaconsfield.constituency = "Beaconsfield"
+    
+    api.get_data(Search.path,**beaconsfield.params)
+
 
         

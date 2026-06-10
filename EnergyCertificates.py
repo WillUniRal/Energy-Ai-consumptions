@@ -9,7 +9,7 @@ class Search :
     
     @property
     def constituency(self) -> tuple :
-        return self.__region
+        return self.__constituency
     @property
     def postcode(self) -> tuple :
         return self.__postcode
@@ -19,7 +19,7 @@ class Search :
     
     @constituency.setter
     def constituency(self,value) :
-        self.__region = ("constituency",[value])
+        self.__constituency = ("constituency[]",value)
     @postcode.setter
     def postcode(self,value) :
         self.__postcode = ("postcode",value)
@@ -42,7 +42,7 @@ class Search :
 
     def __init__(self,):
         self.start_date : None|date = None
-        self.__region = ()
+        self.__constituency = ()
         self.__postcode = ()
         self.__address = ()
         
