@@ -39,6 +39,8 @@ class GovApi :
             "Authorization": f"Bearer {self.secret}",
             "Accept": "application/json"
         }, params=kwargs)
+
+        self.URL = data.url
         
         if data.status_code != 200 :
             print(data.status_code, data.json()["data"]["error"])
@@ -47,7 +49,6 @@ class GovApi :
             return data.json()
             # print(json.dumps(data.json(), indent=2))
 
-        print(data.url)
 
 if __name__ == "__main__":
     api = GovApi()
@@ -58,12 +59,46 @@ if __name__ == "__main__":
     dataCentre.address = "13 Liverpool Road"
     dataCentre.set_date(2018,2018)
 
-    api.get_data(Search.path,**dataCentre.params)
+    # api.get_data(Search.path,**dataCentre.params)
 
     beaconsfield = Search()
     beaconsfield.constituency = "Beaconsfield"
     
-    api.get_data(Search.path,**beaconsfield.params)
+    # api.get_data(Search.path,**beaconsfield.params)
+
+    old = Search()
+    old.set_date(2011,2012)
+
+    data = api.get_data(Search.path,current_page=2,**old.params)
+    print(json.dumps(data, indent=2))
+    print(api.URL)
+
+    """ Page formating
+    "pagination": { 
+        "totalRecords": 33306,
+        "currentPage": 1,
+        "totalPages": 7,
+        "nextPage": 2,
+        "prevPage": null,
+        "pageSize": 5000
+    }
+    """
+
+    # Is there any older certificates?
+    newSearch = Search()
+    newSearch.set_date(2010,2013)
+    newSearch.constituency = "Beaconsfield"
+
+    data = api.get_data(Search.path,**newSearch.params)
+    import pandas as pd # lazy import
+    old_data_frame = pd.DataFrame(data['data'])
+
+    old_data_frame.shape # 5000,13 = paginated
+    old_data_frame["registrationDate"] = pd.to_datetime(old_data_frame["registrationDate"])
+
+    # If the API pulls more than 5000, the months will sort oldest first
+    print("Year count:\n",old_data_frame["registrationDate"].dt.year.value_counts())
+    print("Month count:\n",old_data_frame["registrationDate"].dt.month_name().value_counts())
 
 
         

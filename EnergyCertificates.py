@@ -36,8 +36,8 @@ class Search :
         if self.address : result |= dict([self.address])
 
         if not self.start_date : return result
-        result["date_start"] = self.start_date.isoformat()
         result["date_end"] = self.end_date.isoformat()
+        result["date_start"] = self.start_date.isoformat()
         return result
 
     def __init__(self,):
@@ -54,9 +54,6 @@ class Search :
 
         self.start_date : date = date(start_year,1,1)
         self.end_date : date = end
-
-    def get_data(self) :
-        pass
 
 if __name__ == "__main__":
     
