@@ -1,0 +1,153 @@
+	certificateNumber	postcode	postTown	council	constituency	currentEnergyEfficiencyBand	registrationDate	uprn	schemaType	FullAddress
+0	0063-3230-1116-4124-9460	SL0 9QA	IVER	Buckinghamshire	Beaconsfield	C	2026-06-09	10003236063.0	CEPC-8.0.0	IVER VILLAGE JUNIOR SCHOOL HIGH STREET
+1	1027-0961-1118-8407-7643	SL7 2PJ	MARLOW	Buckinghamshire	Beaconsfield	C	2026-06-08	100081324590.0	CEPC-8.0.0	St Peters Catholic Primary School Prospect Road
+2	6310-7116-2392-9925-2806	SL2 3AE	SLOUGH	Buckinghamshire	Beaconsfield	F	2026-05-27	10003425332.0	CEPC-8.0.0	Arbour Vale School Farnham Road
+3	0627-9550-5617-4403-1623	SL2 4QP	SLOUGH	Buckinghamshire	Beaconsfield	D	2026-05-26		CEPC-8.0.0	Pioneer Secondary Academy Hollybush Hill Stoke Poges
+4	4182-5816-8772-7195-5702	HP9 1RJ	Beaconsfield, Buckinghamshire	Buckinghamshire	Beaconsfield	B	2026-05-19	100081187472.0	CEPC-8.0.0	Beacon Sports Centre Hotspur Way Hotspur
+5	2138-8016-6182-5624-5806	SL1 7DE	SLOUGH	Buckinghamshire	Beaconsfield	C	2026-05-13	100081264905.0	CEPC-8.0.0	St. Peters C of E Combined School Minniecroft Road Burnham
+6	6320-5616-0632-9505-3006	HP10 9LA	FLACKWELL HEATH	Buckinghamshire	Beaconsfield	C	2026-05-07	100081089785.0	CEPC-8.0.0	Juniper Hill School Churchill Close
+7	2070-1884-2963-9706-7125	HP10 0QH	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2026-04-23	100081166826.0	CEPC-8.0.0	BLOCK 1 St. Pauls C of E Combined School Stratford Drive Wooburn Green
+8	0253-3298-9107-7253-7990	SL8 5BE	BOURNE END	Buckinghamshire	Beaconsfield	D	2026-04-20	200000810341.0	CEPC-8.0.0	Westfield School Highfield Road
+9	0736-8116-5922-8994-9106	SL2 3TZ	SLOUGH	Buckinghamshire	Beaconsfield	E	2026-04-15	100081266010.0	CEPC-8.0.0	Farnham Common Junior School Sherbourne Walk Farnham Common
+10	2388-1704-6365-2700-1505	SL1 7DE	Slough	Buckinghamshire	Beaconsfield	C	2026-04-09	100081264904.0	CEPC-8.0.0	Burnham Health Centre Minniecroft Road Burnham
+11	4626-4016-9002-0727-0606	SL7 1DN	MARLOW	Buckinghamshire	Beaconsfield	C	2026-03-26	200000794466.0	CEPC-8.0.0	The Doctors House Surgery Victoria Road
+12	3542-6814-3342-2090-2592	SL0 0DA	Iver Heath	Buckinghamshire	Beaconsfield	B	2026-03-20		CEPC-8.0.0	Iver Heath Junior School St Margaret's Close Iver Heath Buckinghamshire
+13	2575-1137-3963-2200-0691	SL7 2RE	MARLOW	Buckinghamshire	Beaconsfield	B	2026-03-10	100081278527.0	CEPC-8.0.0	Main Building (Rear) Spinfield School Terrington Hill
+14	8026-9573-8017-0909-5623	SL7 2RE	MARLOW	Buckinghamshire	Beaconsfield	B	2026-03-10	100081278527.0	CEPC-8.0.0	Main Building (Front) Spinfield School Terrington Hill
+15	2296-1622-0968-8808-6721	SL6 0ET	MAIDENHEAD	Buckinghamshire	Beaconsfield	C	2026-02-26	100081320676.0	CEPC-8.0.0	St. Nicolas C of E Combined School Taplow Rectory Road Taplow
+16	0922-0266-5156-2146-0150	SL8 5BW	BOURNE END	Buckinghamshire	Beaconsfield	C	2026-02-20	200000806950.0	CEPC-8.0.0	WRIGHT/AOT BLOCK Bourne End Academy New Road
+17	2266-1272-1468-1406-1795	SL8 5BW	BOURNE END	Buckinghamshire	Beaconsfield	C	2026-02-20	200000806950.0	CEPC-8.0.0	MAIN BLOCK Bourne End Academy New Road
+18	5552-6316-3482-4502-7106	UB9 5JL	DENHAM GREEN	Buckinghamshire	Beaconsfield	C	2026-02-19	10003238764.0	CEPC-8.0.0	Denham Green E-Act Primary Academy Nightingale Way
+19	0923-7207-5176-8314-2434	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2026-02-17	100081277861.0	CEPC-8.0.0	SPORTS HALL Great Marlow School Bobmore Lane
+20	5362-5316-3752-5392-7502	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2026-02-17	100081277861.0	CEPC-8.0.0	'S' BLOCK Great Marlow School Bobmore Lane
+21	0923-2222-2196-5362-3534	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2026-02-17	100081277861.0	CEPC-8.0.0	MAIN BUILDING Great Marlow School Bobmore Lane
+22	0729-2803-4412-8193-9443	SL7 2BR	MARLOW	Buckinghamshire	Beaconsfield	D	2026-02-02	10096530381.0	CEPC-8.0.0	THEATRE BUILDING Sir William Borlases Grammar School West Street
+23	2873-1010-5628-4590-6625	SL7 2BR	Marlow	Buckinghamshire	Beaconsfield	A	2026-02-02	10096530465.0	CEPC-8.0.0	New Sports Hall Sir William Borlase's Grammar School West Street,
+24	2473-1450-5645-8098-8825	SL7 2BR	MARLOW	Buckinghamshire	Beaconsfield	D	2026-02-02	100081324618.0	CEPC-8.0.0	MAIN BUILDING Sir William Borlases Grammar School West Street
+25	7882-9814-1042-9820-0196	SL7 2BR	MARLOW	Buckinghamshire	Beaconsfield	D	2026-02-02	100081324618.0	CEPC-8.0.0	A BLOCK Sir William Borlases Grammar School West Street
+26	9812-2014-2502-7020-7196	SL7 2BR	MARLOW	Buckinghamshire	Beaconsfield	D	2026-02-02	10096530465.0	CEPC-8.0.0	SCIENCE AND HALL BLOCK Sir William Borlases Grammar School West Street
+27	8021-2696-9418-6109-1683	SL1 7HG	BURNHAM	Buckinghamshire	Beaconsfield	C	2026-01-26	100081264714.0	CEPC-8.0.0	Burnham Grammar School Hogfair Lane
+28	2141-1829-6063-4908-9725	SL1 7NP	BURNHAM	Buckinghamshire	Beaconsfield	C	2026-01-21	100081264912.0	CEPC-8.0.0	Lent Rise Combined School Coulson Way
+30	0992-0209-9106-8518-0010	SL1 7HR	BURNHAM	Buckinghamshire	Beaconsfield	D	2026-01-15	10090189208.0	CEPC-8.0.0	Burnham Park Hall Windsor Lane
+31	2930-1989-6763-9602-7095	SL7 3SA	MARLOW	Buckinghamshire	Beaconsfield	E	2026-01-13	100081324596.0	CEPC-8.0.0	Little Marlow C of E School School Lane
+32	1252-5316-2892-0009-2506	HP10 9HE	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2026-01-02	100081167774.0	CEPC-8.0.0	Buckinghamshire College Group Wycombe Campus Spring Lane, Flackwell Heath
+33	9725-6206-6195-0028-9250	SL2 4LN	SLOUGH	Buckinghamshire	Beaconsfield	C	2025-12-30	100081266275.0	CEPC-8.0.0	Stoke Poges County Middle School Rogers Lane Stoke Poges
+34	2322-0624-7814-9792-0503	SL7 1DJ	Marlow	Buckinghamshire	Beaconsfield	C	2025-12-01	100081277980.0	CEPC-8.0.0	Marlow Community Hospital Glade Road
+35	7472-1115-5262-8229-5192	HP10 0HF	WOOBURN GREEN	Buckinghamshire	Beaconsfield	B	2025-11-25	100081166827.0	CEPC-8.0.0	Wooburn Green Primary School School Road
+36	2245-1289-3658-6294-1395	SL7 3AZ	MARLOW	Buckinghamshire	Beaconsfield	B	2025-11-20	100081279179.0	CEPC-8.0.0	Marlow C of E Infant School Sandygate Road
+38	0980-4226-0174-9470-3874	SL3 6NB	SLOUGH	Buckinghamshire	Beaconsfield	E	2025-11-14	100081267614.0	CEPC-8.0.0	Nuffield Health Stoke Poges Wrexham Street Stoke Poges
+40	9099-0216-3195-2578-8680	HP9 1RR	BEACONSFIELD	Buckinghamshire	Beaconsfield	C	2025-11-05	100081187473.0	CEPC-8.0.0	MAIN BUILDING Beaconsfield High School Wattleton Road
+41	2588-1969-9354-8194-5301	HP9 1RR	BEACONSFIELD	Buckinghamshire	Beaconsfield	F	2025-11-05	100081187473.0	CEPC-8.0.0	KINGSLEY BUILDING Beaconsfield High School Wattleton Road
+42	0281-0244-9105-3844-3024	SL0 0HS	IVER	Buckinghamshire	Beaconsfield	C	2025-10-30	10003240213.0	CEPC-8.0.0	The Evreham Centre Swallow Street
+43	0280-8245-5135-1898-5030	SL1 7HR	SLOUGH	Buckinghamshire	Beaconsfield	E	2025-10-30	100081264955.0	CEPC-8.0.0	Buckinghamshire County Council Burnham Library, Windsor Lane Burnham
+44	9901-1289-5105-9348-5634	SL8 5NS	BOURNE END	Buckinghamshire	Beaconsfield	C	2025-10-17	200000810287.0	CEPC-8.0.0	Claytons Primary School Wendover Road
+45	7306-1315-3932-0190-3792	HP10 9AA	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2025-10-17	200000806814.0	CEPC-8.0.0	Carrington Junior School 4 Chapel Road Flackwell Heath
+46	9902-4209-4145-4784-7274	HP9 1RG	BEACONSFIELD	Buckinghamshire	Beaconsfield	C	2025-10-13	10003241911.0	CEPC-8.0.0	ST MARYS AND ALL SAINTS CHURCH OF ENGLAND PRIMARY SCHOOL MAXWELL ROAD
+47	0216-1246-6125-5792-0784	SL2 3AW	SLOUGH	Buckinghamshire	Beaconsfield	C	2025-10-10	10003242086.0	CEPC-8.0.0	St. Mary's Farnham Royal C. E. Primary School Church Road Farnham Royal
+48	0245-1221-9145-3290-6250	SL9 7AL	Gerrards Cross	Buckinghamshire	Beaconsfield	E	2025-10-01	10003235782.0	CEPC-8.0.0	Main Building - Gerrards Cross Fire Station Oxford Road
+49	0241-2253-1115-0282-0594	HP9 1EA	Beaconsfield	Buckinghamshire	Beaconsfield	C	2025-10-01	100081187982.0	CEPC-8.0.0	Main Building - Beaconsfield Fire Station 2 Skelton Close Holtspur
+50	6423-2215-2617-4402-1523	SL7 2AE	MARLOW	Buckinghamshire	Beaconsfield	B	2025-09-24	200000811979.0	CEPC-8.0.0	Court Garden Leisure Complex Pound Lane
+51	0219-5227-7175-9252-3530	SL0 9NT	IVER	Buckinghamshire	Beaconsfield	E	2025-09-22	100081261184.0	CEPC-8.0.0	Iver Village Infant School Grange Way
+52	1930-8115-8562-9701-4606	HP10 9HE	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2025-09-19	100081167774.0	CEPC-8.0.0	BLOCK A/E/B Buckinghamshire College Group Wycombe Campus Spring Lane, Flackwell Heath
+54	3862-5515-7952-6601-3906	HP10 9AA	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	D	2025-09-08	100081323739.0	CEPC-8.0.0	Carrington Infant School Chapel Road Flackwell Heath
+55	0226-1315-6352-1624-4502	SL7 1RA	Marlow	Buckinghamshire	Beaconsfield	C	2025-09-02	10004795788.0	CEPC-8.0.0	Marlow Fire Station Parkway
+58	8124-4315-2762-9525-0602	HP9 1SJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	C	2025-07-28	100081187476.0	CEPC-8.0.0	BLOCKS 2, 3 &4 Beaconsfield School Wattleton Road
+59	0252-0217-8135-5192-9710	HP9 1SJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	C	2025-07-28	100081187476.0	CEPC-8.0.0	BLOCK 1 Beaconsfield School Wattleton Road
+60	2194-0315-8942-3325-6206	HP9 1SJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	E	2025-07-28	100081187476.0	CEPC-8.0.0	BLOCK 7 (Sports) Beaconsfield School Wattleton Road
+62	5340-2115-2662-4126-2602	SL7 3AG	MARLOW	Buckinghamshire	Beaconsfield	C	2025-06-27	100081278899.0	CEPC-8.0.0	Holy Trinity CE (A) School Wethered Road
+63	2693-1070-7073-5896-7905	SL6 0DY	DOREY REACH	Buckinghamshire	Beaconsfield	C	2025-06-25	100081273726.0	CEPC-8.0.0	Dorney School Harcourt Close
+71	1090-6015-5202-0197-8606	SL2 4LN	STOKE POGES	Buckinghamshire	Beaconsfield	C	2025-03-10	100081266275.0	CEPC-8.0.0	The Stoke Poges School Rogers Lane
+73	2968-8515-4252-3592-6806	SL7 2RE	MARLOW	Buckinghamshire	Beaconsfield	B	2025-02-11	100081278527.0	CEPC-8.0.0	Spinfield School Terrington Hill
+84	3452-3217-1842-2420-2196	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2024-11-25	100081277861.0	CEPC-8.0.0	ENGLISH & MUSIC BLOCK Great Marlow School Bobmore Lane
+85	9204-9215-4107-0798-6434	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2024-11-25	100081277861.0	CEPC-8.0.0	T BLOCK Great Marlow School Bobmore Lane
+86	9290-5243-3164-5514-3264	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2024-11-25	100081277861.0	CEPC-8.0.0	A BLOCK Great Marlow School Bobmore Lane
+97	2258-1560-3440-0794-6391	HP9 1SJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2024-10-16	100081187476.0	CEPC-8.0.0	BLOCK 7 Beaconsfield School Wattleton Road
+101	2507-1990-3244-3096-8601	HP9 1BH	BEACONSFIELD	Buckinghamshire	Beaconsfield	E	2024-10-08	100081187931.0	CEPC-8.0.0	Holtspur Primary School Cherry Tree Road
+103	6268-3614-6752-3708-1402	SL2 4NZ	STOKE POGES	Buckinghamshire	Beaconsfield	D	2024-08-22	10003243941.0	CEPC-8.0.0	Stoke Poges Memorial Gardens Church Lane
+104	0986-5271-7114-1496-7984	SL3 6NB	STOKE POGES	Buckinghamshire	Beaconsfield	E	2024-08-15	100081267614.0	CEPC-8.0.0	Nuffield Health And Fitness Wexham Street
+105	6488-6214-3162-2498-2006	SL3 6NB	SLOUGH	Buckinghamshire	Beaconsfield	D	2024-08-15	100081076723.0	CEPC-8.0.0	Nuffy Bear Day Nursery Wexham Street Stoke Poges
+107	2744-1206-7948-3402-6721	SL7 1JW	MARLOW	Buckinghamshire	Beaconsfield	C	2024-07-16	10033197595.0	CEPC-8.0.0	BLOCK 1 Foxes Piece School Newfield Road
+109	0069-8236-9184-8700-3280	SL2 3HS	SLOUGH	Buckinghamshire	Beaconsfield	C	2024-07-04	100081266008.0	CEPC-8.0.0	Farnham Common Infant School Beaconsfield Road Farnham Common
+113	9028-9230-0187-6404-5630	HP9 2JJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	C	2024-06-17	10003242667.0	CEPC-8.0.0	Coroners Court 29 Windsor End
+114	2169-1242-2376-0698-1495	SL7 3JD	MARLOW	Buckinghamshire	Beaconsfield	E	2024-06-17	100081279176.0	CEPC-8.0.0	Marlow Youth Centre Wycombe Road
+126	0220-6253-1114-6166-5570	SL7 2PJ	MARLOW	Buckinghamshire	Beaconsfield	C	2024-02-29	100081324590.0	CEPC-8.0.0	St. Peters Catholic Primary School Prospect Road
+135	0991-9228-4114-2202-6934	SL6 0ET	TAPLOW	Buckinghamshire	Beaconsfield	C	2024-01-12	100081320676.0	CEPC-8.0.0	St Nicolas Church Of England Combined School Rectory Road
+137	9925-6209-0157-1472-7934	SL1 7HG	SLOUGH	Buckinghamshire	Beaconsfield	C	2023-12-14	100081264714.0	CEPC-8.0.0	Burnham Grammar School Hogfair Lane Burnham
+140	6018-4317-5542-5179-8892	SL1 7NP	SLOUGH	Buckinghamshire	Beaconsfield	C	2023-11-30	100081264912.0	CEPC-8.0.0	Lent Rise School Coulson Way Burnham
+147	2185-1690-7572-4898-9691	SL1 7DE	BURNHAM	Buckinghamshire	Beaconsfield	D	2023-10-11	100081264905.0	CEPC-8.0.0	St Peters Church Of England Combined School Minniecroft Road
+150	4521-0302-2818-9093-8783	HP9 1RJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	B	2023-10-01	100081187472.0	CEPC-8.0.0	The Beacon Sports Centre Holtspur Way
+156	2891-1026-6177-6004-8525	SL0 0HS	IVER	Buckinghamshire	Beaconsfield	C	2023-06-28	10003240213.0	CEPC-8.0.0	Evreham Sports Centre & Gym Swallow Street
+184	2715-1309-3127-1892-6695	HP9 2PP	BEACONSFIELD	Buckinghamshire	Beaconsfield	F	2022-11-29	100081188038.0	CEPC-8.0.0	Town Hall Penn Road
+186	2048-4812-7762-3129-1096	SL7 3AZ	MARLOW	Buckinghamshire	Beaconsfield	C	2022-11-20	100081279179.0	CEPC-8.0.0	Marlow Church Of England Infant School Sandygate Road
+192	4702-5712-6112-8821-5706	SL0 0DA	IVER	Buckinghamshire	Beaconsfield	D	2022-09-23	100081260994.0	CEPC-8.0.0	Iver Heath Junior School St. Margarets Close
+194	9594-0612-7362-5793-8406	SL0 9QA	IVER	Buckinghamshire	Beaconsfield	E	2022-07-15	10003236063.0	CEPC-8.0.0	Iver Village Junior School High Street
+195	3764-9512-0012-1693-9402	SL6 0DY	MAIDENHEAD	Buckinghamshire	Beaconsfield	C	2022-07-13	100081273726.0	CEPC-8.0.0	Dorney School Harcourt Close Dorney Reach
+213	8420-0812-1502-0409-8806	UB9 4LH	UXBRIDGE	Buckinghamshire	Beaconsfield	C	2022-01-04	100081281804.0	CEPC-8.0.0	CAPSWOOD 1 Buckinghamshire Council Council Offices, Oxford Road, Capswood Business Centre Denham
+214	0090-1224-3132-0462-1720	UB9 4LH	UXBRIDGE	Buckinghamshire	Beaconsfield	B	2022-01-04	10096533032.0	CEPC-8.0.0	CAPSWOOD 2 Buckinghamshire Council Council Offices, Oxford Road, Capswood Business Centre Denham
+223	9997-0251-2119-8154-8890	HP9 1RJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	A	2021-11-19	100081187472.0	CEPC-8.0.0	The Beacon Centre Beacon Close
+231	9002-1236-3179-3959-4470	SL7 2AE	MARLOW	Buckinghamshire	Beaconsfield	C	2021-10-11	200000811979.0	CEPC-8.0.0	Places for People Leisure Management Ltd Court Garden Leisure Complex Pound Lane
+245	2322-1825-3090-0508-0925	UB9 5JL	UXBRIDGE	Buckinghamshire	Beaconsfield	D	2021-05-21	10003238764.0	CEPC-8.0.0	Denham Green E A C T Primary Academy Nightingale Way Denham
+247	2277-1235-2996-8308-4405	HP9 1RG	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2021-05-04	10003241911.0	CEPC-8.0.0	ST MARYS AND ALL SAINTS CHURCH OF ENGLAND PRIMARY SCHOOL MAXWELL ROAD BEACONSFIELD
+248	5729-3713-9319-9629-4696	SL8 5BE	BOURNE END	Buckinghamshire	Beaconsfield	D	2021-05-03	200000810341.0	CEPC-8.0.0	WESTFIELD SCHOOL HIGHFIELD ROAD BOURNE END
+251	0273-4232-4169-4614-0884	HP10 9LA	FLACKWELL HEATH	Buckinghamshire	Beaconsfield	C	2021-03-26	100081089785.0	CEPC-8.0.0	JUNIPER HILL SCHOOL CHURCHILL CLOSE FLACKWELL HEATH
+253	2856-1402-7094-0108-9795	SL2 3TZ	FARNHAM COMMON	Buckinghamshire	Beaconsfield	F	2021-03-22	100081266010.0	CEPC-8.0.0	FARNHAM COMMON JUNIOR SCHOOL SHERBOURNE WALK FARNHAM COMMON
+256	0026-7211-5199-9438-4490	SL1 7DE	SLOUGH	Buckinghamshire	Beaconsfield	E	2021-02-04	100081264905.0	CEPC-8.0.0	St. Peters C of E Combined School Minniecroft Road
+272	2658-1310-8832-8391-4406	HP9 1BH	BEACONSFIELD	Buckinghamshire	Beaconsfield	E	2020-10-23	100081187931.0	CEPC-8.0.0	HOLTSPUR PRIMARY SCHOOL CHERRY TREE ROAD BEACONSFIELD
+274	6642-5310-2162-5190-7392	SL7 3AZ	MARLOW	Buckinghamshire	Beaconsfield	C	2020-10-16	100081279179.0	CEPC-8.0.0	MARLOW CHURCH OF ENGLAND INFANT SCHOOL SANDYGATE ROAD MARLOW
+275	7624-9006-4910-7998-2043	HP10 9AA	FLACKWELL HEATH	Buckinghamshire	Beaconsfield	D	2020-10-14	100081323739.0	CEPC-8.0.0	CARRINGTON INFANT SCHOOL 2 CHAPEL ROAD FLACKWELL HEATH
+276	5144-4610-0952-1600-4492	SL8 5NS	BOURNE END	Buckinghamshire	Beaconsfield	D	2020-10-09	200000810287.0	CEPC-8.0.0	CLAYTONS PRIMARY SCHOOL WENDOVER ROAD BOURNE END
+288	2579-1036-0707-0500-3495	HP10 9LA	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	D	2020-06-22	100081089785.0	CEPC-7.1	Juniper Hill Cp School Churchill Close Flackwell Heath
+292	2675-1084-0201-0100-9105	SL1 7HR	SLOUGH	Buckinghamshire	Beaconsfield	E	2020-04-01	10090189208.0	CEPC-7.1	Burnham Parish Council Burnham Park Hall, Windsor Lane Burnham
+293	0970-6284-0180-3670-6030	SL0 0HS	IVER	Buckinghamshire	Beaconsfield	C	2020-03-16	10090189382.0	CEPC-7.1	Evreham Adult Learning Centre Swallow Street
+294	0970-4258-0160-1980-4034	HP10 0HF	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2020-03-11	100081166827.0	CEPC-7.1	Wooburn Green Primary School School Road Wooburn Green
+297	9674-1069-0612-0790-3325	SL7 1DJ	MARLOW	Buckinghamshire	Beaconsfield	D	2020-01-31	100081277980.0	CEPC-7.1	Buckinghamshire Healthcare NHS Trust Marlow Community Hospital Glade Road
+298	9674-1069-0612-0790-6321	SL7 1DJ	MARLOW	Buckinghamshire	Beaconsfield	D	2020-01-20	100081277980.0	CEPC-7.1	Buckinghamshire PCT Marlow Community Hospital Glade Road
+314	9900-7938-0171-2580-8070	SL8 5RP	BOURNE END	Buckinghamshire	Beaconsfield	E	2019-11-08		CEPC-7.1	Bourne End Marina Wharf Lane
+315	0792-0496-3710-3290-2113	UB9 4LH	UXBRIDGE	Buckinghamshire	Beaconsfield	D	2019-11-07	10096533032.0	CEPC-7.1	CAPSWOOD 2 South Bucks District Council Council Offices, Oxford Road, Capswood Business Centre Denham
+316	9090-2927-0131-6372-4024	UB9 4LH	UXBRIDGE	Buckinghamshire	Beaconsfield	E	2019-11-07	100081281804.0	CEPC-7.1	CAPSWOOD 1 South Bucks District Council Council Offices, Oxford Road, Capswood Business Centre Denham
+317	0550-0311-5779-2809-5096	SL8 5SX	BOURNE END	Buckinghamshire	Beaconsfield	D	2019-11-05	100081279874.0	CEPC-7.1	Buckinghamshire County Council Bourne End Library, Wakeman Road
+318	0590-0394-5110-5790-7103	HP9 2NJ	BEACONSFIELD	Buckinghamshire	Beaconsfield	E	2019-11-05	100081188571.0	CEPC-7.1	Buckinghamshire County Council Beaconsfield Library, Reynolds Road
+319	0892-0897-8910-5290-9103	SL7 1BL	MARLOW	Buckinghamshire	Beaconsfield	F	2019-11-05	100081278501.0	CEPC-7.1	Buckinghamshire County Council Marlow Library, Institute Road
+326	0194-9682-6610-7200-4103	HP9 1LW	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2019-09-30	10003237861.0	CEPC-7.1	Shanly Group Ltd Sorbon, 24-26 Aylesbury End
+331	9978-1015-0113-0601-8221	SL1 7LZ	SLOUGH	Buckinghamshire	Beaconsfield	D	2019-08-30	10090189381.0	CEPC-7.1	MAIN BLOCK Burnham Park E-ACT Academy Opendale Road Burnham
+333	0892-0611-7139-8125-2002	SL1 7LZ	SLOUGH	Buckinghamshire	Beaconsfield	D	2019-08-30	10090189381.0	CEPC-7.1	DINING & SPORTS BLOCK Burnham Park E-ACT Academy Opendale Road Burnham
+334	9954-1085-0989-0600-8991	HP9 1BH	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2019-08-16	100081187931.0	CEPC-7.1	Holtspur School Cherry Tree Road
+337	0930-6976-0161-7393-8034	HP10 9HE	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2019-07-17	100081167774.0	CEPC-7.1	BLOCK A/E/B Amersham & Wycombe College Spring Lane Flackwell Heath
+341	0760-0011-9429-6996-7006	HP9 1RG	BEACONSFIELD	Buckinghamshire	Beaconsfield	E	2019-06-13	10003241911.0	CEPC-7.1	St. Mary & All Saints C of E Primary School Maxwell Road
+352	9413-1082-0516-0400-3821	HP10 0HF	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	D	2019-02-28	10004796435.0	CEPC-7.1	The Meadows County Combined School School Road Wooburn Green
+353	0130-0318-8659-2222-4092	SL1 7NP	SLOUGH	Buckinghamshire	Beaconsfield	C	2019-02-08	100081264912.0	CEPC-7.1	Lent Rise County Combined School Coulson Way Burnham
+357	0492-2897-2810-6690-6803	SL2 3HS	SLOUGH	Buckinghamshire	Beaconsfield	D	2018-11-26	100081266008.0	CEPC-7.1	Farnham Common County First School Beaconsfield Road Farnham Common
+363	0310-0018-8989-6309-8196	SL7 1JE	MARLOW	Buckinghamshire	Beaconsfield	C	2018-11-09	100081277861.0	CEPC-7.1	G BLOCK Great Marlow School Bobmore Lane
+390	0796-9960-8510-4700-8803	SL1 8PF	SLOUGH	Buckinghamshire	Beaconsfield	E	2018-06-14	100081265136.0	CEPC-7.1	Dropmore Infant School Littleworth Road Burnham
+394	9451-1005-0788-0000-9925	SL3 6JB	SLOUGH	Buckinghamshire	Beaconsfield	F	2018-05-29	100081267308.0	CEPC-7.1	Fulmer Infant School Alderbourne Lane Fulmer
+397	0740-6968-0188-5070-6090	UB9 5AE	UXBRIDGE	Buckinghamshire	Beaconsfield	E	2018-05-11	100081320499.0	CEPC-7.1	Denham County Infant School Cheapside Lane Denham
+405	0092-2972-4410-2700-2803	SL7 1NQ	MARLOW	Buckinghamshire	Beaconsfield	G	2018-03-22	100081098482.0	CEPC-7.1	The Two Brewers St. Peter Street
+409	0130-0718-3449-3192-3002	HP9 1RW	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2018-03-07	10003242547.0	CEPC-7.1	Butlers Court County Combined School Wattleton Road
+410	0134-0718-3449-3192-3006	HP9 1RW	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2018-03-07	10003242547.0	CEPC-7.1	KS1 BLOCK Butlers Court County Combined School Wattleton Road
+411	0920-3943-0148-3115-7030	HP9 1RW	BEACONSFIELD	Buckinghamshire	Beaconsfield	F	2018-03-07	10003242547.0	CEPC-7.1	YEAR 5 BLOCK Butlers Court County Combined School Wattleton Road
+442	0670-0513-7819-1607-4002	SL2 4AZ	SLOUGH	Buckinghamshire	Beaconsfield	D	2017-08-15	10003447302.0	CEPC-7.1	Three Ways Surgery Pennylets Green Stoke Poges
+449	0180-0013-5099-1996-1006	SL2 3AE	SLOUGH	Buckinghamshire	Beaconsfield	G	2017-06-19	10003425332.0	CEPC-7.1	Arbour Vale School Farnham Road Farnham Royal
+450	0230-0513-7419-0202-2006	HP9 2JH	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2017-06-15	100081188661.0	CEPC-7.1	Millbarn Medical Centre 34 London End
+453	0050-5943-0153-8270-1074	UB9 5GA	UXBRIDGE	Buckinghamshire	Beaconsfield	D	2017-05-05	10090191890.0	CEPC-7.1	Denham Medical Centre Queen Mothers Drive Denham Garden Village
+454	0993-0616-7139-8102-2096	SL1 7LZ	SLOUGH	Buckinghamshire	Beaconsfield	D	2017-05-03	10090189381.0	CEPC-7.1	HUMANITIES Burnham Park E-ACT Academy Opendale Road Burnham
+460	0599-0773-4810-6200-9303	HP9 1PS	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2017-03-10		CEPC-7.1	Simpson Health Centre 70 Gregories Road
+501	0596-0771-9010-7600-2603	SL2 3TE	SLOUGH	Buckinghamshire	Beaconsfield	B	2016-03-24	10090189884.0	CEPC-7.0	Burnham Beeches Office Hawthorn Lane Farnham Common
+502	0592-2126-0110-6600-3623	SL0 0DT	IVER	Buckinghamshire	Beaconsfield	D	2016-03-04	100081320629.0	CEPC-7.0	BLOCK 2 Iver Heath Infant School & Nursery Slough Road
+503	0631-0116-6609-2122-5002	SL0 0DT	IVER	Buckinghamshire	Beaconsfield	D	2016-03-04	100081320629.0	CEPC-7.0	BLOCK 1 Iver Heath Infant School & Nursery Slough Road
+509	0120-0516-8029-7829-9006	HP9 1NN	BEACONSFIELD	Buckinghamshire	Beaconsfield	G	2016-01-29	10003233777.0	CEPC-7.0	Small Bones 8 Burkes Parade
+510	0420-0715-0369-3929-0096	SL7 1EY	MARLOW	Buckinghamshire	Beaconsfield	E	2016-01-26	200000794433.0	CEPC-7.0	Jubilee House Third Avenue Globe Park
+511	9429-1046-0259-0300-2801	HP10 0HH	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	F	2016-01-20	10004795942.0	CEPC-7.0	Alternative Networks Endeavour House Mercury Park, Wycombe Lane Wooburn Green
+522	9599-1021-0856-0100-8225	SL0 0HS	IVER	Buckinghamshire	Beaconsfield	C	2015-10-27	10003240213.0	CEPC-7.0	Eversham Community Centre Swallow Street
+537	0693-2837-6910-4700-6543	HP10 9HE	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2015-07-24	100081167774.0	CEPC-7.0	BLOCK C Amersham & Wycombe College Spring Lane Flackwell Heath
+538	9673-1090-0776-0895-7621	HP10 9HE	HIGH WYCOMBE	Buckinghamshire	Beaconsfield	C	2015-07-24	100081167774.0	CEPC-7.0	BLOCK D Amersham & Wycombe College Spring Lane Flackwell Heath
+572	9200-3965-0104-6010-1020	SL0 0DT	IVER	Buckinghamshire	Beaconsfield	E	2014-10-20	100081320629.0	CEPC-7.0	Iver Heath Infant School & Nursery Slough Road
+581	0080-3928-0144-9410-4060	SL2 3AE	SLOUGH	Buckinghamshire	Beaconsfield	D	2014-08-07	10003425332.0	CEPC-7.0	Arbour Vale House Farnham Road Farnham Royal
+590	0990-9980-0174-9520-9074	SL7 3AB	MARLOW	Buckinghamshire	Beaconsfield	C	2014-05-30	10092753410.0	CEPC-7.0	Thames Valley Police Police Station, Dean Street
+591	9858-1014-0642-0100-4805	SL6 0ET	MAIDENHEAD	Buckinghamshire	Beaconsfield	C	2014-04-04	100081320676.0	CEPC-7.0	St. Nicholas C of E Combined School Rectory Road Taplow
+595	0790-1948-0134-6050-3030	SL7 1RA	MARLOW	Buckinghamshire	Beaconsfield	E	2014-02-01	10004795788.0	CEPC-7.0	Buckinghamshire Fire & Rescue Service Fire Station, Parkway
+596	0790-1992-0104-1040-1080	HP9 1EA	BEACONSFIELD	Buckinghamshire	Beaconsfield	D	2014-02-01	100081187982.0	CEPC-7.0	Buckinghamshire Fire & Rescue Service Fire Station, 2 Skelton Close
+627	9738-1054-0878-0100-6991	SL7 1JW	MARLOW	Buckinghamshire	Beaconsfield	D	2013-04-25	100081277804.0	CEPC-7.0	Foxes Piece School Newfield Road
+651	0210-5928-0132-3570-8044	SL2 3AW	SLOUGH	Buckinghamshire	Beaconsfield	D	2012-09-26	10003242086.0	CEPC-7.0	Farnham Royal C of E School Church Road Farnham Royal
+659	0250-4964-0102-8540-2040	SL7 1AA	MARLOW	Buckinghamshire	Beaconsfield	D	2012-07-23	200000809656.0	CEPC-7.0	Royal Mail Marlow Delivery Office, Cromwell Gardens
+661	0750-1902-0152-0090-4014	HP9 1ZZ	BEACONSFIELD	Buckinghamshire	Beaconsfield	G	2012-06-20	100081187442.0	CEPC-7.0	Royal Mail Beaconsfield Delivery Office, 13 Station Road
+672	0940-1932-0172-1050-2030	SL0 9NW	IVER	Buckinghamshire	Beaconsfield	F	2012-04-10	100081261186.0	CEPC-7.0	Iver Village Infant School West Square
