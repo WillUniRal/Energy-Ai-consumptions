@@ -1,4 +1,4 @@
-# Download project requirements
+# How to use this project
 Make sure UV is installed, this is the python environment manager for this project
 The COM6003-CW1.ipynb is where requirements can be downloaded
 
